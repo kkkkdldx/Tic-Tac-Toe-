@@ -27,6 +27,5 @@ Socket programming is utilized for communication between the server and clients.
 
 **Game Logic**
 
-
  The game logic is implemented in the `GameSessionHandler` class on the server side. It manages player moves, checks for a winner, and communicates game status to clients.
 
